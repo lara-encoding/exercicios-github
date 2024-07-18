@@ -10,6 +10,8 @@ public class Mapa {
 		Map<Integer, String> usuarios = new HashMap<>();
 		usuarios.put(1, "Roberto");
 		usuarios.put(1, "Ricardo");
+
+		System.out.println("Katho chegou....");
 		
 	}
 
