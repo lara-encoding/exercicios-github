@@ -40,6 +40,7 @@ public class Mapa {
 			System.out.print(registro.getKey() + " ==> ");
 			System.out.println(registro.getValue());
 		}
+		usuarios.put(1, "Ricardo");
 		
 	}
 
