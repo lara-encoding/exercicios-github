@@ -42,6 +42,21 @@ public class Mapa {
 		}
 		usuarios.put(1, "Ricardo");
 		
+		
+		/**
+		 * SOBRE O GIT E GIT HUB
+		 * 
+		 *  GIT STATUS
+		 *  GIT ADD 
+		 *  GIT COMMIT
+		 *  GIT PUSH
+		 *  BRANCH (CRIAR BRANCH, ENTRAR NA BRANCH)
+		 *  GIT CLONE
+		 */
+		
+		
+		
+		
 	}
 
 }
