@@ -11,7 +11,7 @@ public class Exercicio8 {
 		Scanner entrada = new Scanner(System.in);
 		
 		System.out.println("Digite a palavra: ");
-		String palavra = scanner.nextLine();
+		String palavra = entrada.nextLine();
 
 		char letras[] = palavra.toCharArray();
 
@@ -19,7 +19,7 @@ public class Exercicio8 {
 			System.out.println(letras[i]);
 		}
 
-		scanner.close();
+		entrada.close();
  		
 		
 	}

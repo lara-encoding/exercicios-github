@@ -16,5 +16,7 @@ public class IfElse {
 		} else {
 			System.out.println("Número impar!");	
 		} 
+		
+		entrada.close();
 	}
 }

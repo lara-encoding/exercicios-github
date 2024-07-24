@@ -32,6 +32,6 @@ public class DesafioDiaDaSemana {
 	        System.out.println("Não é um dia da semana!");
         }
 		
-
+		entrada.close();
     }
 }
