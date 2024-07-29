@@ -24,6 +24,8 @@ public class CarroTeste {
 		c2.ligarAr();
 		c2.desligarAr(); 
 		
+		System.out.println(c2.velocidadeDoAr());
+		
 		c2.acelerarCarro();
 		c2.frearCarro();
 		System.out.println(c2);
