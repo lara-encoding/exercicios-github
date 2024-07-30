@@ -9,6 +9,9 @@ public class CalculoTeste2 {
 		
 		calculo = (x, y) -> x * y;
 		System.out.println("O total da multiplicação é " + calculo.executar(4, 5));
+		
+		System.out.println(calculo.legal());
+		System.out.println(Calculo.muitoLegal());
 	}
 
 }
