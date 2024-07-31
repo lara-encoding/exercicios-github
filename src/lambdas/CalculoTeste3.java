@@ -15,7 +15,7 @@ public class CalculoTeste3 {
 		BinaryOperator<Integer> calculo2 = (x, y) -> { return x + y; };
 		System.out.println("O total da soma é " + calculo2.apply(4, 5));
 		
-		calculo = (x, y) -> x * y;
+		calculo2 = (x, y) -> x * y;
 		System.out.println("O total da multiplicação é " + calculo2.apply(4, 5));
 	}
 
