@@ -13,4 +13,6 @@ public class Predicado {
 		System.out.println(isCaro.test(produto));
 	}
 
+	// essa função recebe um argumento e retorna um valor.
+	
 }

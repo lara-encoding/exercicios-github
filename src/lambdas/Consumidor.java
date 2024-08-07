@@ -25,5 +25,7 @@ public class Consumidor {
 		produtos.forEach(p -> System.out.println(p.preco));
 		produtos.forEach(System.out::println);
 	}
+	
+	// função que aceita um único parametro e não retorna nada.
 
 }
