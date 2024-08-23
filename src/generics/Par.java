@@ -2,7 +2,7 @@ package generics;
 
 import java.util.Objects;
 
-public class Par<C, V> {
+public class Par<C, V>{
 
 	private C chave;
 	private V valor;
